@@ -72,3 +72,20 @@ I'm Shivam – a tech-driven engineering student with a deep passion for **codin
 
 ### 🧭 My Motto:
 > **"Think beyond books. Learn by doing. Build what matters."**
+
+---
+
+### 🎯 Visitor Badge
+
+<p align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamvarma15960)
+</p>
+
+---
+
+### 🏅 Badges
+
+<p align="center">
+  ![Founder](https://img.shields.io/badge/Founder-Si%20Electratech-blueviolet?style=flat-square)
+  ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=flat-square)
+</p>
