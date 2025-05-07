@@ -52,7 +52,10 @@
 ### 📫 Contact Me
 
 - 📧 **Email:** shivamvarma15960@gmail.com  
-- 💼 **LinkedIn:** [Shivam Varma](https://www.linkedin.com/in/shivamvarma8380/)  
+- 💼 **LinkedIn:** [Shivam Varma](https://www.linkedin.com/in/shivamvarma8380/)
+- 📸 **Instagram:** [@shivamvarma._](https://www.instagram.com/shivamvarma8380)  
+- 🚀 Let’s collaborate, innovate, and build the future!
+
 - 🚀 Let’s collaborate, innovate, and build the future!
 
 ---
