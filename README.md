@@ -1,19 +1,21 @@
 <h1 align="center">Hey there, I'm Shivam 👋</h1>
 
 <p align="center">
-  🎓 3rd Year Engineering Student | 💻 Tech + Business Lover | 📈 Index Derivatives Enthusiast <br>
-  ⚡ Founder @ Si Electratech | 👨‍💻 Passionate Coder & Project Builder
+  🎓 3rd Year Engineering Student | 💻 Tech + Business Enthusiast | 📈 Index Derivatives Learner <br>
+  ⚡ Founder @ Si Electratech | 👨‍💻 Full-Stack Developer | 🧠 Data & Automation Explorer
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 🎓 Currently pursuing B.Tech in Engineering (3rd Year)
-- 💡 Passionate about **technology, business, coding**, and **index derivatives**
-- ⚡ Founder of **Si Electratech** – building cutting-edge electrical panels and automation systems
-- 🛠️ Built multiple real-world tech projects, always striving for simplicity and innovation
-- 🔍 Always exploring new domains and working on meaningful problems
+I'm Shivam – a tech-driven engineering student with a deep passion for **coding**, **financial markets**, and **entrepreneurship**. Currently in my third year of B.Tech, I'm not just learning — I'm building.
+
+- ⚙️ I co-founded **Si Electratech**, a company focused on creating smart, safe, and scalable electrical panel systems for real-world applications.
+- 🧠 I love turning **ideas into real-world systems**, whether it's a **trading bot**, a **recommender engine**, or an **automation panel**.
+- 💡 My journey is about **blending tech and business** — solving industrial problems with smart, clean code and sharp thinking.
+- 🔍 Curious about how **data**, **automation**, and **markets** work — I build, break, learn, and rebuild.
+- 🤝 Open to projects, collabs, and anything meaningful in **tech, finance, or innovation**.
 
 ---
 
@@ -37,26 +39,24 @@
 
 ### 🚀 Projects I’ve Built
 
-- 📈 **Indian Stock Market Data Visualization** – Real-time market insights using Python & data viz libraries  
-- 💹 **Stock Price Prediction using ML** – Applied machine learning to forecast market trends  
-- 📊 **Quiz App (Web Dev)** – A full-featured, clean and user-friendly quiz application with dark mode, timer & categories  
-- 🗃️ **Result Management System** – Built from scratch for managing student data efficiently  
-- 🧠 **Hybrid Recommender System** – Combined content-based & collaborative filtering using R  
-- 🔌 **Reverse-Forward Control Panel** – Built hands-on with hardware at Si Electratech  
-- 💡 **Automation Panels** – Industrial panel design with smart control and emergency systems  
+- 📈 **Indian Stock Market Data Visualization** – Real-time data charts with custom filtering and trend spotting  
+- 🤖 **Stock Price Prediction using ML** – Applied regression and technical analysis models on stock data  
+- 🧠 **Hybrid Recommender System** – Built using R, combining content-based and collaborative techniques  
+- 🧪 **Quiz App (Web Project)** – Fully responsive, dynamic quiz app with dark mode, categories, and scoring  
+- 🗃️ **Result Management System** – Web tool to manage academic results and student data  
+- 🔌 **Reverse-Forward Control Panel** – Hands-on industrial panel built with real-world wiring and automation  
+- ⚡ **Building Automation Systems** – Core panels and emergency systems for businesses (Si Electratech Projects)
 
-📦 *More interesting side-projects always in progress!*
+💼 *More coming soon — always building, always learning.*
 
 ---
 
 ### 📫 Contact Me
 
 - 📧 **Email:** shivamvarma15960@gmail.com  
-- 💼 **LinkedIn:** [Shivam Varma](https://www.linkedin.com/in/shivamvarma8380/)
-- 📸 **Instagram:** [@shivamvarma._](https://www.instagram.com/shivamvarma8380)  
-- 🚀 Let’s collaborate, innovate, and build the future!
-
-- 🚀 Let’s collaborate, innovate, and build the future!
+- 💼 **LinkedIn:** [Shivam Varma](https://www.linkedin.com/in/shivamvarma8380/)  
+- 📸 **Instagram:** [@shivamvarma._](https://www.instagram.com/shivamvarma._/)  
+- 🚀 Let’s build something impactful together!
 
 ---
 
@@ -71,4 +71,4 @@
 ---
 
 ### 🧭 My Motto:
-> **"Keep building, keep learning – simplicity and impact matter most."**
+> **"Think beyond books. Learn by doing. Build what matters."**
