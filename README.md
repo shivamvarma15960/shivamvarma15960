@@ -11,7 +11,7 @@
 
 I'm Shivam – a tech-driven engineering student with a deep passion for **coding**, **financial markets**, and **entrepreneurship**. Currently in my third year of B.Tech, I'm not just learning — I'm building.
 
-- ⚙️ I co-founded **Si Electratech**, a company focused on creating smart, safe, and scalable electrical panel systems for real-world applications.
+- ⚙️ I cfounded **Si Electratech**, a company focused on creating smart, safe, and scalable electrical panel systems for real-world applications.
 - 🧠 I love turning **ideas into real-world systems**, whether it's a **trading bot**, a **recommender engine**, or an **automation panel**.
 - 💡 My journey is about **blending tech and business** — solving industrial problems with smart, clean code and sharp thinking.
 - 🔍 Curious about how **data**, **automation**, and **markets** work — I build, break, learn, and rebuild.
@@ -75,17 +75,3 @@ I'm Shivam – a tech-driven engineering student with a deep passion for **codin
 
 ---
 
-### 🎯 Visitor Badge
-
-<p align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamvarma15960)
-</p>
-
----
-
-### 🏅 Badges
-
-<p align="center">
-  ![Founder](https://img.shields.io/badge/Founder-Si%20Electratech-blueviolet?style=flat-square)
-  ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=flat-square)
-</p>
